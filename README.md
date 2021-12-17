@@ -1,7 +1,5 @@
 ##OLA!Eu sou Nandra Silveira
-. 👩‍💻Faço faculdade de Ciencias da Computaçao
-. 💻Terminando pos graduaçao em engenharia de software e formada em administraçao de empresas
-. 📚Estudando html,css,javascript,e outras linguagens
+. 👩‍💻Full Stack developer/Javascript/TypeScript/React/Node
 . 👩‍🦰pronouns Ela/Dela
 
   <a href="https://github.com/nandrass">
